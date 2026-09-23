@@ -1,16 +1,1 @@
-# HALE — Handcrafted Skeleton Watches
-
-Premium editorial landing page for HALE, an independent handcrafted skeleton watch brand.
-
-## Stack
-- Plain HTML
-- CSS
-- Vanilla JavaScript
-- Google Fonts
-
-## Files
-- `index.html` — page structure
-- `styles.css` — full responsive design
-- `app.js` — smooth scrolling and micro-interactions
-
-Designed to deploy directly on Vercel or GitHub Pages.
+# HALE\n\nMulti-page website for HALE, a handcrafted skeleton watch brand.\n\nPages: Home, Collection, Craft, Journal, Contact.\n\nNo image assets are used. Watch and movement visuals are built from CSS shapes and typography.
